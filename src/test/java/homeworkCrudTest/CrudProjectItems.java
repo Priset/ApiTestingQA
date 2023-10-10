@@ -1,4 +1,4 @@
-package homeworkCrud;
+package homeworkCrudTest;
 
 import io.restassured.response.Response;
 import org.json.JSONObject;
